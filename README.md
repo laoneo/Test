@@ -1,3 +1,3 @@
 # Test
 
-- Adding new PR.
+- Adding new PR with more advanced description.
